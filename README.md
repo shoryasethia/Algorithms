@@ -15,6 +15,7 @@ This section contains implementations of fundamental algorithms used in computer
 
 Example algorithms:
 - Bubble Sort
+- Random forest
 - Binary Search
 - Dijkstra's Algorithm
 - Depth-First Search (DFS)
@@ -40,12 +41,12 @@ Example logic problems:
 In this section, you'll find implementations of numerical analysis techniques used to solve mathematical problems and analyze numerical data.
 
 Example numerical analysis techniques:
-- Newton's Method
+- Secant Method
 - Euler's Method
 - Runge-Kutta Methods
 - Numerical Integration
 - Root Finding Algorithms
-- Linear Regression
+- Linear/Logistic Regression
 - and more...
 
 ## Math Problems
@@ -53,9 +54,9 @@ Example numerical analysis techniques:
 This section contains solutions to various mathematical problems, including algebraic equations, geometry problems, calculus problems, and more.
 
 Example math problems:
-- Solving Quadratic Equations
-- Calculating Areas and Volumes
-- Differentiation and Integration Problems
+- Solving equations
+- Differentiating using sympy
+- Integration Problems
 - Prime Number Generation
 - Fibonacci Sequence
 - and more...
