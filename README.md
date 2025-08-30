@@ -1,3 +1,6 @@
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/shoryasethia/)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/22b2q2iw/)
+---
 # Algorithms and Math Problems
 
 Welcome to the Algorithms and Math Problems repository! This repository contains implementations of various algorithms, logic problems, numerical analysis techniques, and mathematical solutions.
